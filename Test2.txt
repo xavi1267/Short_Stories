@@ -2,3 +2,7 @@ This is just a test1
 This is just a test2
 This is just a test3
 testing for stashing
+lets mess up this file 
+i wanna mess up too
+This is just a test3
+lets try with sourcetree
