@@ -1,5 +1,7 @@
 This is just a test1
+Messing up, I want to keep this line
 This is just a test2 I removed the line below
 let's merge with branches
-I will try to do some mess in here for the project in VSC, I removed a line (2 above)
+I will try to do some mess in here for the project in VSC, I removed a line (2 above).
+Messing up, I want to keep this line
 This is for VSC change
