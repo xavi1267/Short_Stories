@@ -1,5 +1,5 @@
 This is just a test1
 This is just a test2 I removed the line below
-just other random edition
 let's merge with branches
+I will try to do some mess in here for the project in VSC, I removed a line (2 above)
 This is for VSC change
