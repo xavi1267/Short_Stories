@@ -4,9 +4,9 @@ This is just a test2 I removed the line below
 let's merge with branches
 This is a new line for creating conflicts 1
 I will try to do some mess in here for the project in VSC, I removed a line (2 above).
-Messing up, I want to keep this line
-This is for VSC change
+Messing up, I want to keep this line3
 0
+0.1
 1
 2
 3
@@ -22,3 +22,6 @@ This is for VSC change
 13
 14
 15
+16
+17
+18
