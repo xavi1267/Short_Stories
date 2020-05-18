@@ -6,6 +6,7 @@ This is a new line for creating conflicts 1
 I will try to do some mess in here for the project in VSC, I removed a line (2 above).
 Messing up, I want to keep this line
 This is for VSC change
+0
 1
 2
 3
@@ -18,3 +19,6 @@ This is for VSC change
 10
 11
 12
+13
+14
+15
